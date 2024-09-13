@@ -1,0 +1,11 @@
+{
+  "name": "p-ccr",
+  "version": "1.0.1",
+  "description": "A process concurrency async task solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thanhpv3380@gmail.com",
+  "license": "MIT"
+}
